@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"pl-video-skeleton","text":"<p>This is a template repository for Python projects that use uv for their dependency management.</p>"},{"location":"modules/","title":"Modules","text":""}]}
