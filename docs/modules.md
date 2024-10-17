@@ -1,1 +1,1 @@
-::: pupil_labs.foo
+::: pupil_labs.reader
